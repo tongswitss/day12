@@ -9,7 +9,7 @@
     <div class="row"> 
         <div class="col-sm-6">
             <span >
-                © Copyright Reserved to งานพัฒนาหลักสูตรการเรียนการสอน วิทยาลัยเทคนิคชลบุรี
+                © Copyright Reserved to ..... วิทยาลัยเทคนิคชลบุรี
             </span>
         </div>
         <div class="col-sm-6 text-right">

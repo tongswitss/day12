@@ -31,7 +31,7 @@
   position: absolute;
   z-index: -1;
   filter: brightness(45%);
-  background-image: url("https://wallpapercave.com/wp/wp8012893.jpg");
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif");
   background-size: cover;
   background-position: center;
 }
